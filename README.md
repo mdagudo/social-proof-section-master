@@ -26,7 +26,7 @@ Users should be able to:
 
 ## My process
 
-This is my fourth challenge and this one was my favorite, I finally feel like I'm improving and I feel more confident with every thing I do.
+This is my fourth challenge and this one was my favorite, I finally feel like I'm improving and I feel more confident with everything I do.
 
 ### Built with
 
@@ -49,7 +49,7 @@ I still need to learn Responsive Design and Mobile First.
 
 ## Author
 
-- Github - [@mdagudo ](https://github.com/mdagudo.com)
+- Github - [@mdagudo](https://github.com/mdagudo.com)
 - Frontend Mentor - [@mdagudo](https://www.frontendmentor.io/profile/mdagudo)
 
 
